@@ -11,7 +11,7 @@ public class SpringKppitRenderApplication {
 	
 	@GetMapping
 	public String getMessage() {
-		return "Welcome to KPPIT";
+		return "Welcome to KPPIT !!!!!";
 	}
 
 	public static void main(String[] args) {
